@@ -1,2 +1,1 @@
-# odin-recipes
-recipes
+Website: https://shanstin.github.io/odin-recipes/
